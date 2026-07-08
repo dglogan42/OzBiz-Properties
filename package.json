@@ -2,7 +2,7 @@
   "name": "ozbiz-properties",
   "private": true,
   "version": "1.0.0",
-  "description": "Australian commercial real estate platform — Vite React frontend with Express API and SQLite",
+  "description": "Australian commercial real estate platform \u2014 Vite React frontend with Express API and SQLite",
   "license": "MIT",
   "type": "module",
   "scripts": {
